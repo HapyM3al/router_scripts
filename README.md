@@ -24,4 +24,7 @@ example: https://imgur.com/a/65Teg95
 
 ## notes
 
-You might want to have all the routers on same LAN. My B2338 is 10.50.0.253 and B315 is 10.50.0.254 as example. This also means that if you like could change default route and do speedtest-cli and dnsperftesting as well and log those as well to db. 
+You might want to have all the routers on same LAN. My B2338 is 10.50.0.253 and B315 is 10.50.0.254 as example. This also means that if you like could change default route and do speedtest-cli,iperf3 and dnsperftesting as well and log those as well to db. 
+
+https://github.com/HapyM3al/dnspertesttomysql <br> 
+https://github.com/HapyM3al/iperf3pythontomysql
